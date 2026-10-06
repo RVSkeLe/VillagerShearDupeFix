@@ -1,0 +1,9 @@
+name: VillagerShearDupeFix
+version: '${version}'
+author: RVSkeLe
+
+main: io.github.rvskele.villagersheardupefix.VillagerShearDupeFix
+api-version: '1.21.6'
+folia-supported: true
+load: STARTUP
+description: Fixes the Villager shear dupe.
